@@ -1,4 +1,13 @@
-## Hi there 👋
+# Introduction
+
+**Who is donis03ch ?**
+
+I'm a motivated upcoming software developer, studying in Switzerland.
+
+**Why am I here ?**
+
+- I'm here for the obvious reason of giving people the chance to see my process of building apps. 
+- Connecting with people and sharing knowledge with each other are other aspects, which I also very much favor.
 
 <!--
 **Donis03ch/Donis03ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
